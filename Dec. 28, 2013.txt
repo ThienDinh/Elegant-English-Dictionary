@@ -1,0 +1,51 @@
+image # A representation of the form of a person or object, such as a painting or photograph.
+[In] he opinion or concept of something that is held by the public: the public's {image} of business leaders as greedy.
+          b.  The concept or character projected to the public, as by a person or institution, especially as interpr
+
+
+---
+search ::: To make a careful examination or investigation: searching for the right words to say.
+[In] His re{search} heats up the {search} for alien life-and finds some amazing planets along the way.
+
+
+---
+unbelievable = Not to be believed; incredible: an unbelievable coincidence.
+[In] Their kitchens are immaculate, the agriculture is unbelievable.
+
+
+---
+volcano = An opening in the earth's crust from which lava, ash, and hot gases flow or are ejected during an eruption.
+[in] Scientists have not been able to see the volcano for the past two days due to heavy cloud cover.
+
+
+---
+hat = A covering for the head, especially one with a shaped crown and brim.
+[in] He had a tricornered hat, and red and white in his coat, and epaulettes on his shoulders.
+
+
+---
+hat = setEnabled
+[in] setEnabled
+
+
+---
+hat = To respect, admire, or congratulate.
+[in] To respect, admire, or congratulate.
+
+
+---
+set = The collective receiving apparatus assembled to operate a radio or television.
+[in] Definition of set packing, possibly with links to more information and implementations.
+
+
+---
+search = setEnabled
+[in] setEnabled
+
+
+---
+if (this.btnsave.isenabled()) { = if (this.btnSave.isEnabled()) {
+[in] if (this.btnSave.isEnabled()) {
+
+
+---
