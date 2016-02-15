@@ -46,7 +46,6 @@ public class AHDictionaryDotCom extends Reference implements HTMLDoc {
                     break;
                 }
             }
-            //HTMLProcessor processor = new HTMLProcessor(download, "UTF-8");
             ArrayList<String> keepingList = new ArrayList<String>();
             keepingList.add("\"rtseg\"");
             keepingList.add("</script> (");
